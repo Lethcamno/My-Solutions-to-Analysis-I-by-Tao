@@ -1,6 +1,6 @@
 ## My Solutions to Analysis I by Tao
 
-### Section Exercises 3.3
+### Section 3.3 Exercises
 #### Ex. 3.3.2.
 (Direct Proof)
 If $f$ and $g$ are both injective (if $f$, $g$ $\colon \hookrightarrow$?) then $x \not= x' \implies f(x) \not= f(x')$ and $f(x) \not= f(x') \implies (g \circ f)(x) \not= (g \circ f)(x')$, from which $x \not= x' \implies (g \circ f)(x)$.
