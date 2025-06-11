@@ -1,1 +1,1 @@
-# George-s-Solutions-to-Tao-s-Analysis
+George's Solutions to Tao's Analysis
